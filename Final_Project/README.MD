@@ -1,12 +1,12 @@
 # Test Driven Development for Python architecture
 This repository contains test-Driven Development approach for  Python architecture.  
 
-
+This project is about online Learning Management System, where User can register themselves as member and can take Courses and record their Progress after taking assessments at the end of the Course. 
 
 Project contains following Python architecture pattern:
 
 1. Repository pattern
-2. Domain Model
+2. Domain Model 
 3. Unit of Work Pattern 
 4. Event and Message Bus
 
